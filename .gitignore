@@ -1,0 +1,5 @@
+/functions/service-account.json
+/functions/node_modules
+/functions/lib
+.ipynb_checkpoints
+EDA.ipynb
